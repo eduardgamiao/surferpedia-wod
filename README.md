@@ -1,4 +1,4 @@
-![screenshot](https://raw.github.com/eduardgamiao/surferpedia/master/doc/surferpedia_example.png)
+![screenshot](https://raw.github.com/eduardgamiao/surferpedia-wod/master/doc/surferpedia_example.png)
 
 Overview
 
