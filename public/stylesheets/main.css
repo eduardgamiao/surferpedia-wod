@@ -1,0 +1,28 @@
+.banner {
+  background-image:url('../images/banner.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+}
+
+
+.slater {
+	background-image:url('../images/ks.jpg');
+	background-size: cover;
+	background-position: center;
+	height: 400px;
+}
+
+.hamilton {
+  background-image:url('../images/bh.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+}
+
+.marshall {
+  background-image:url('../images/jm.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+}
